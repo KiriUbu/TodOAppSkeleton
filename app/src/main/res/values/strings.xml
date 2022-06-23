@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="welcomeMessage1">Welcome MAD Demo S22</string>
+    <string name="welcomeMessage2">Weclome again!</string>
+    <string name="detailViewItemNameHint">name</string>
+    <string name="detailViewItemDescriptionHint">Beschreibung</string>
+    <string name="activity_detailview_description_hint">Description</string>
+    <string name="activity_detailview_name_hint">Name</string>
+    <string name="IP_of_Rest_Api_Server">http://192.168.10.106:8080</string>
+</resources>
